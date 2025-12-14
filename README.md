@@ -1,7 +1,5 @@
 # Hi there, I'm Zenith 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Developer+%7C+Tech+Enthusiast;Java+%2F+Python+%2F+Web+Development;Always+learning+new+things...)](https://git.io/typing-svg)
-
 ---
 
 ### 🛠 Tech Stack
